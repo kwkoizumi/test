@@ -1,0 +1,6 @@
+test,てすと,あ,い,う
+goku,同義語
+dougigo1,同義語A,同義語B,同義語C
+gokugoku,同義語A,同義語B
+goku,同義語12,同義
+goku,同義語,同義
